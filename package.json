@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "build": "babel src -d dist",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.22.9",
+    "@babel/core": "^7.22.9",
+    "@babel/preset-env": "^7.22.9"
+  },
+  "dependencies": {
+    "core-js": "^3.31.1"
+  }
+}
